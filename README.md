@@ -63,6 +63,10 @@ Repository: [github.com/pakhoi1604/CrossDaRoad](https://github.com/pakhoi1604/Cr
 Second Prize winner for a Zalo Mini App that automates real-estate commission
 payouts with smart QR flows, split logic, and blockchain audit logging.
 
+<a href="https://www.facebook.com/hubnetworkhcmc/posts/pfbid0yuFcmHgyxFwwh7QbggwsZamLiVsnmzfaqGEKePiptvgyajGZKK3yw51Wv4D9tGcRl">
+  <img src="https://img.shields.io/badge/Featured%20Post-HUB%20Network%20HCMC-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Featured Facebook post" />
+</a>
+
 ## Current Focus
 
 - Building full-stack web applications with React, Node.js, and PostgreSQL.
