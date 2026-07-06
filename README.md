@@ -1,0 +1,92 @@
+<div align="center">
+  <img src="assets/github-banner.svg" alt="Pham Anh Khoi GitHub banner" width="100%" />
+
+  <h1>Hi, I'm Pham Anh Khoi</h1>
+  <h3>Full-Stack Web Developer | Frontend Developer & DevOps | IT Student</h3>
+
+  <p>
+    Final-year Information Technology student at University of Science - VNUHCM,
+    focused on building scalable web applications with React, Node.js, cloud deployment,
+    and clean developer workflows.
+  </p>
+
+  <p>
+    <a href="mailto:phamanhkhoi1604@gmail.com">
+      <img src="https://img.shields.io/badge/Email-phamanhkhoi1604%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/pakhoi1604">
+      <img src="https://img.shields.io/badge/GitHub-pakhoi1604-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <img src="https://img.shields.io/badge/Ho%20Chi%20Minh%20City-Vietnam-0F766E?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ho Chi Minh City, Vietnam" />
+  </p>
+</div>
+
+## Featured Project
+
+### WeeUp - Job Referral Platform
+
+**Frontend Developer & DevOps**
+
+WeeUp is a job search platform with an incentivized candidate referral system.
+I worked on the frontend experience and deployment flow while helping integrate
+production-oriented backend features.
+
+**Highlights**
+
+- Integrated JWT authentication and Google OAuth.
+- Built admin dashboard flows with audit trail support.
+- Worked with payment system integration and RESTful APIs.
+- Supported API reliability with rate limiting, validation, and structured error handling.
+- Deployed backend on Heroku and frontend on AWS S3 + CloudFront with DNS via PA Vietnam.
+
+**Tech Stack**
+
+`TypeScript` `React` `Node.js` `Express.js` `PostgreSQL` `Redis` `Tailwind CSS` `Docker` `AWS`
+
+## More Work
+
+### CrossDaRoad Game
+
+Classic arcade game built in C++ with an emphasis on object-oriented design,
+movement logic, collision handling, and source-code structure.
+
+Repository: [github.com/wasdqaz/CrossDaRoad](https://github.com/wasdqaz/CrossDaRoad.git)
+
+### AstroPay - Cardano SEA Hackathon 2026
+
+Second Prize winner for a Zalo Mini App that automates real-estate commission
+payouts with smart QR flows, split logic, and blockchain audit logging.
+
+## Current Focus
+
+- Building full-stack web applications with React, Node.js, and PostgreSQL.
+- Improving DevOps workflows with Docker, CI/CD, Linux servers, and cloud deployment.
+- Exploring security-minded product development through the Google Cybersecurity certificate.
+- Open to collaboration on practical web platforms, automation tools, and cloud-backed products.
+
+## Tech Stack
+
+| Frontend | Backend | Databases & Cache |
+| --- | --- | --- |
+| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+
+| DevOps & Cloud | Tools | Security |
+| --- | --- | --- |
+| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000000) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) | ![Google Cybersecurity](https://img.shields.io/badge/Google_Cybersecurity-Coursera_Certificate-4285F4?style=flat-square&logo=google&logoColor=white) |
+
+## GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pakhoi1604&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=pakhoi1604&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pakhoi1604&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=pakhoi1604&style=for-the-badge&color=0F766E" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/pakhoi1604?style=for-the-badge&logo=github&color=181717" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/pakhoi1604?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&color=F59E0B" alt="GitHub stars" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pakhoi1604/pakhoi1604/output/github-snake-dark.svg" alt="GitHub contribution snake" />
+</div>

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Pham Anh Khoi GitHub Profile Banner</title>
+  <desc id="desc">A professional software engineering banner for Pham Anh Khoi, full-stack web developer.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B1120"/>
+      <stop offset="52%" stop-color="#102A43"/>
+      <stop offset="100%" stop-color="#0F766E"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="50%" stop-color="#22C55E"/>
+      <stop offset="100%" stop-color="#F59E0B"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="14" stdDeviation="14" flood-color="#020617" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="360" fill="url(#bg)"/>
+  <path d="M0 276 C180 212 308 324 492 252 C706 168 820 298 1012 218 C1124 172 1204 172 1280 198 L1280 360 L0 360 Z" fill="#020617" opacity="0.32"/>
+  <path d="M0 310 C166 262 318 330 496 286 C674 242 792 304 970 260 C1088 232 1178 238 1280 260" fill="none" stroke="url(#accent)" stroke-width="5" opacity="0.75"/>
+
+  <g opacity="0.18" stroke="#E2E8F0" stroke-width="1">
+    <path d="M804 66 h320"/>
+    <path d="M804 106 h246"/>
+    <path d="M804 146 h360"/>
+    <path d="M804 186 h286"/>
+    <path d="M884 48 v160"/>
+    <path d="M984 48 v160"/>
+    <path d="M1084 48 v160"/>
+  </g>
+
+  <g transform="translate(784 70)" filter="url(#shadow)">
+    <rect x="0" y="0" width="360" height="190" rx="18" fill="#0F172A" opacity="0.84"/>
+    <circle cx="32" cy="32" r="7" fill="#F87171"/>
+    <circle cx="56" cy="32" r="7" fill="#FBBF24"/>
+    <circle cx="80" cy="32" r="7" fill="#34D399"/>
+    <text x="30" y="76" fill="#38BDF8" font-family="Consolas, monospace" font-size="20">&gt; build --web --cloud</text>
+    <text x="30" y="112" fill="#E2E8F0" font-family="Consolas, monospace" font-size="18">React  Node.js  Docker</text>
+    <text x="30" y="146" fill="#A7F3D0" font-family="Consolas, monospace" font-size="18">AWS  PostgreSQL  Redis</text>
+  </g>
+
+  <g transform="translate(90 84)">
+    <text x="0" y="0" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="58" font-weight="800">Pham Anh Khoi</text>
+    <text x="0" y="52" fill="#BAE6FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="650">Full-Stack Web Developer</text>
+    <text x="0" y="92" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22">React | Node.js | DevOps | Cloud Deployment</text>
+    <rect x="0" y="128" width="520" height="4" rx="2" fill="url(#accent)"/>
+    <text x="0" y="174" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20">University of Science - VNUHCM</text>
+    <text x="0" y="208" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20">Ho Chi Minh City, Vietnam</text>
+  </g>
+</svg>
