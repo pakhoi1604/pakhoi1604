@@ -17,6 +17,12 @@
     <a href="https://github.com/pakhoi1604">
       <img src="https://img.shields.io/badge/GitHub-pakhoi1604-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
+    <a href="https://www.linkedin.com/in/kh%C3%B4i-ph%E1%BA%A1m-7228a3275/">
+      <img src="https://img.shields.io/badge/LinkedIn-Khoi%20Pham-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://x.com/pham_khoi1604">
+      <img src="https://img.shields.io/badge/X-pham__khoi1604-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    </a>
     <img src="https://img.shields.io/badge/Ho%20Chi%20Minh%20City-Vietnam-0F766E?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ho Chi Minh City, Vietnam" />
   </p>
 </div>
